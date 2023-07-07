@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "SilverCore Kernel Beryllium",
-      "repo": "https://github.com/PainKiller3/kernel_xiaomi_sdm845",
+      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sdm845",
       "branch": "88-zstd",
       "device": "dipper",
-      "defconfig": "stock-dipper_defconfig"
+      "defconfig": "dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
