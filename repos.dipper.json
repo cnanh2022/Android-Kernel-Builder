@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Charsi-Tejas",
-      "repo": "https://github.com/Charsi-Tejas/kernel_xiaomi_sdm845",
-      "branch": "thirteen",
+      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
+      "branch": "t-caf-ksu",
       "device": "dipper",
-      "defconfig": "dipper"
+      "defconfig": "nogravity-dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
