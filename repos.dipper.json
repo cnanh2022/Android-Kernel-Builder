@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "android_kernel_xiaomi_sdm845",
       "repo": "https://github.com/PainKiller3/kernel_xiaomi_sdm845",
-      "branch": "eleven",
+      "branch": "thirteen",
       "device": "dipper",
-      "defconfig": "dipper_defconfig"
+      "defconfig": "/vendor/xiaomi/mi845_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
