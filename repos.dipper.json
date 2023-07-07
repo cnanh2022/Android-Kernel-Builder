@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
       "branch": "88-zstd",
       "device": "dipper",
-      "defconfig": "dipper_user_defconfig"
+      "defconfig": "/vendor/xiaomi/mi845_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
