@@ -5,7 +5,7 @@
       "repo": "https://github.com/Charsi-Tejas/kernel_xiaomi_sdm845",
       "branch": "thirteen",
       "device": "dipper",
-      "defconfig": "dipper_defconfig"
+      "defconfig": "dipper"
     },
     "withKernelSU": true,
     "toolchains": [
