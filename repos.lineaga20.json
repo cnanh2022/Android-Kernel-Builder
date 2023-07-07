@@ -2,7 +2,7 @@
 [
   {
     "kernelSource": {
-      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "name": "lineageos_xiaomi_sdm845",
       "repo": "https://github.com/OnlyTomInSecond/android_kernel_xiaomi_sdm845",
       "branch": "lineageos-20-no-kprobe",
       "device": "dipper",
