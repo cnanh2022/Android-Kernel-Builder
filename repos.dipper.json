@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
-      "branch": "lineage-20",
+      "repo": "https://github.com/PainKiller3/kernel_xiaomi_sdm845",
+      "branch": "eleven",
       "device": "dipper",
-      "defconfig": "sdm845-perf_defconfig"
+      "defconfig": "dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
